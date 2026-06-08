@@ -1,4 +1,4 @@
-Si se utiliza el siguiente *prompt* al que se incorporan los ejemplos:
+Se utiliza el siguiente *prompt* al que se incorporan los ejemplos:
 
 ```text
 Eres un clasificador experto en enunciados de Física Experimental.
